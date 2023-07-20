@@ -1,0 +1,7 @@
+.terraform
+*.auto.tfvars
+terraform.tfstate*
+testing/
+/.metadata/
+terraform.tfstate
+.DS_Store
